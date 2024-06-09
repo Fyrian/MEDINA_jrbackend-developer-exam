@@ -14,7 +14,8 @@ The following steps detail how to setup the project locally
 
 1.) Clone the repository
 
-    https://github.com/Fyrian/MEDINA_jrbackend-developer-exam.git
+    git clone https://github.com/Fyrian/MEDINA_jrbackend-developer-exam.git
+    cd cd MEDINA_jrbackend-developer-exam
 2.) Access the project
 
     cd jrfrontend-developer-exam/
