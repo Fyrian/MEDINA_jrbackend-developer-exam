@@ -11,6 +11,7 @@ The Saved page shows a table of all saved/added contacts stored locally. Contact
 
 # Installation
 The following steps detail how to setup the project locally
+
 1.) Clone the repository
 
     https://github.com/Fyrian/MEDINA_jrbackend-developer-exam.git
