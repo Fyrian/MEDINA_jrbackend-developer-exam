@@ -7,7 +7,7 @@ Features:
     Update: Edit the details of a saved contact.
     Delete: Remove a contact from the saved list.
 The Home page shows a form to input the contact details, a table to display newly added contacts. All contacts shown on the table are temporary and will disappear upon refresh.
-The Saved page shows a table of all saved/added contacts stored locally. Contacts can be edited and deleted.
+The Saved Contacts page shows a table of all saved/added contacts stored locally. Contacts can be edited and deleted.
 
 # Installation
 The following steps detail how to setup the project locally
