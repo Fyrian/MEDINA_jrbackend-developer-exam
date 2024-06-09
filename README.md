@@ -15,12 +15,15 @@ The following steps detail how to setup the project locally
 1.) Clone the repository
 
     https://github.com/Fyrian/MEDINA_jrbackend-developer-exam.git
-2.) Install the dependencies
+2.) Access the project
+
+    cd jrfrontend-developer-exam/
+3.) Install the dependencies
 
     npm install
-3.) Run the development server
+4.) Run the development server
     
     npm run dev
-4.) Access the localhost port
+5.) Access the localhost port
     
     localhost:3000
